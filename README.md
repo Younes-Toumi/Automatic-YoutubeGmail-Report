@@ -8,10 +8,15 @@ JSON Files
 - youtube_oa.JSON
 
 tokens
+
 youtube_token.pickle 
+
 functions.py
+
 main.pyw (extension .pyw to disable command line popping up)
+
 information.txt
+
 
 
 JSON Files:
