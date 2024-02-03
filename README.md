@@ -3,15 +3,14 @@ Link to my YouTube Channel: https://www.youtube.com/channel/UCeNWB5QgkL4iQXCAz68
 The main structure of the Projects is as follows:
 
 Automatic Report
-- JSON Files
--- data_id.JSON 
--- youtube_oa.JSON
--tokens
--- youtube_token.pickle
-    
-- functions.py
-- main.pyw (extension .pyw to disable command line popping up)
-- information.txt
+JSON Files
+- data_id.JSON
+- youtube_oa.JSON
+tokens
+youtube_token.pickle 
+functions.py
+main.pyw (extension .pyw to disable command line popping up)
+information.txt
 
 
 JSON Files:
